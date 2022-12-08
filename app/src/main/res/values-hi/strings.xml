@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz_App</string>
+    <string name="falseString" translatable="false">असत्य</string>
+    <string name="trueString" translatable="false">सच</string>
+    <string name="Question1">जावास्क्रिप्ट में अपरिभाषित एक आरक्षित शब्द नहीं है</string>
+    <string name="Question2">क्या शून्य जावास्क्रिप्ट में एक वस्तु है?</string>
+    <string name="Question3">HTML का मतलब हाइपर मेडअप टेक्स्ट लैंग्वेज है?</string>
+    <string name="Question4">जावास्क्रिप्ट और जावा मूल रूप से वही हैं?</string>
+    <string name="Question5">क्या जावास्क्रिप्ट गतिशील रूप से टाइप किया गया है?</string>
+    <string name="Question6">ब्रेंडन ईच ने दस दिनों में जावास्क्रिप्ट का पहला संस्करण बनाया?</string>
+    <string name="Question7">जावा में कन्स्ट्रक्टर ओवरलोडिंग संभव नहीं है</string>
+    <string name="Question8">उदाहरण विधि या कन्स्ट्रक्टर में, "यह" वर्तमान वस्तु का संदर्भ है</string>
+    <string name="Question9" translatable="false">असाइनमेंट ऑपरेटरों को छोड़कर सभी बाइनरी ऑपरेटरों का मूल्यांकन बाएं से दाएं किया जाता है</string>
+    <string name="Question10">कचरा संग्रहण मैन्युअल प्रक्रिया है</string>
+    <string name="CorrectAnswer">आपका उत्तर सही है</string>
+    <string name="IncorrectAnswer">आपका उत्तर गलत है</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="get_the_average">औसत प्राप्त करें</string>
+    <string name="reset_the_saved_result">सहेजे गए परिणाम को रीसेट करें</string>
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Quiz_App</string>
+    <string name="falseString" translatable="false">False</string>
+    <string name="trueString" translatable="false">True</string>
+    <string name="Question1">Is Undefiined not a reserved word in JavaScript</string>
+    <string name="Question2">Is Null an object in Javascript ?</string>
+    <string name="Question3">HTML stands for Hyper MadeUp Text Language?</string>
+    <string name="Question4">JavaScript and Java are basically the same?</string>
+    <string name="Question5">Is JavaScript dynamically typed ?</string>
+
+    <string name="Question6">Brendan Eich created the first version  of Javascript in ten days?</string>
+    <string name="Question7">Constructor overloading is not possible in Java</string>
+    <string name="Question8">In an instance method or a constructor, "this" is a reference to the current object.</string>
+    <string name="Question9" translatable="false">All binary operators except for the assignment operators are evaluated from Left to Right</string>
+    <string name="Question10">Garbage Collection is manual process</string>
+    <string name="CorrectAnswer">Your answer is correct</string>
+    <string name="IncorrectAnswer">Your answer is incorrect</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="get_the_average">Get The Average</string>
+    <string name="reset_the_saved_result">Reset The Saved Result</string>
+</resources>
